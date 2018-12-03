@@ -1,6 +1,7 @@
 # Learning JavaScript with Html 5 Canvas Examples
-# Goals of this Tutu
+# Goals of this Course
   1.Learning the basic grammer of JavaScript
   2.Learning Canvas
-# After 
-In this Course Will go through the basic JavaScript grammer by Canvase code example,
+# Target Audience of this Course
+  1.Who want to learn javascript from zero programming background
+  2.
